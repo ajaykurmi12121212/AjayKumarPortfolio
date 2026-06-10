@@ -15,7 +15,7 @@ const projectLinks = [
   { label: 'Admission Chalo', href: 'https://admission-chalo-sigma.vercel.app/', live: true },
   { label: 'ChitChat',        href: 'https://chitchat-chi-three.vercel.app',      live: true },
   { label: 'ShopBazzar',      href: 'https://github.com/ajaykurmi12121212',       live: false },
-  { label: 'Portfolio',       href: 'https://ajaykurmi12121212.github.io/portfolio', live: true },
+  { label: 'Portfolio',       href: 'https://ajay-kumar-portfolio-xi.vercel.app', live: true },
 ];
 
 const socialLinks = [
