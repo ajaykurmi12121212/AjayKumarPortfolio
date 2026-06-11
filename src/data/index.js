@@ -39,7 +39,7 @@ export const projects = [
     gradient: "from-[#6c63ff] to-[#00d4ff]",
     icon: "🎓",
     period: "Jan 2025 – Present",
-    screenshot: "https://via.placeholder.com/600x340/0f0f2e/6c63ff?text=Admission+Chalo",
+    screenshot: "./project1.png",
   },
   {
     name: "ShopBazzar",
@@ -61,7 +61,7 @@ export const projects = [
     gradient: "from-[#00ff88] to-[#00d4ff]",
     icon: "💬",
     period: "Mar 2025 – Present",
-    screenshot: "https://via.placeholder.com/600x340/0a1a0f/00ff88?text=ChitChat",
+    screenshot: "./project3.png",
   },
   {
     name: "Portfolio + Mini Apps",
@@ -72,6 +72,6 @@ export const projects = [
     gradient: "from-[#9b95ff] to-[#ff4d8d]",
     icon: "🖥️",
     period: "Apr 2023 – Present",
-    screenshot: "https://via.placeholder.com/600x340/0f0a1a/9b95ff?text=Portfolio",
+    screenshot: "./project4.png",
   },
 ];
